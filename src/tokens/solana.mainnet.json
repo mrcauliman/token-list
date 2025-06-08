@@ -7,7 +7,8 @@
   "logoURI": "https://ipfs.io/ipfs/bafybeiaxiffwk5fljgn2crqdx2zgmikeebn4ptwatl4ioksnn3t6f6xwmm/wick-symbol.png",
   "tags": ["utility-token"],
   "extensions": {
-    "website": "https://continental.build",
-    "description": "$WICK is the native asset of the CONTINENTAL protocol—built on Solana for speed, discretion, and underworld utility."
+    "website": "https://linktr.ee/wicktokenhq",
+    "twitter": "https://x.com/wick_token",
+    "description": "$WICK is the native asset of the CONTINENTAL protocol—built on Solana for speed, discretion, and underworld utility.",
   }
 }
