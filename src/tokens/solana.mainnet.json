@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "F4zMGBkbNGRrQukATRLeFKfWer7NrfNDvqAi9Pfp2Jn9",
+  "symbol": "WICK",
+  "name": "CONTINENTAL",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafybeiaxiffwk5fljgn2crqdx2zgmikeebn4ptwatl4ioksnn3t6f6xwmm/wick-symbol.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://continental.build",
+    "description": "$WICK is the native asset of the CONTINENTAL protocol—built on Solana for speed, discretion, and underworld utility."
+  }
+}
